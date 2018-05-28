@@ -10,7 +10,7 @@ var userInput = $("#input").val();
 
 
 // global variables 
-var topics = ["hello", "boxing", "technology", "travel", "food"]
+var topics = ["hello", "boxing", "technology", "travel", "food", "cats" , "birds", "matrix", "rick and morty"]
 
 
 
